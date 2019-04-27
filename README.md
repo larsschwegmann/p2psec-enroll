@@ -1,4 +1,4 @@
-# p2p-enroll
+# p2psec-enroll
 
 A client for the enrollment protocol of the P2P Systems and Security course at TUM written in Swift 5.
 
